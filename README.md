@@ -28,7 +28,7 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Weather Application <a name="about-project"></a>
+# 📖 Django E-commerce <a name="about-project"></a>
 
 "Django E-Commerce" a robust E-commerce platform using Django for the backend and React-Redux for the frontend. Leveraged Django's powerful framework to manage backend functionalities such as user authentication, database management, and order processing. Implemented React-Redux on the frontend to create a dynamic and responsive user interface, providing seamless navigation and real-time updates. The integration of Django and React-Redux resulted in an efficient and scalable E-commerce solution, ensuring a secure and engaging online shopping experience for users.
 
